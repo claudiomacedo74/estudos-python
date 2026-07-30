@@ -1,8 +1,10 @@
 import os
 
-livros= [{'titulo':'Saque fantasma', 'autor':'kelvinho', 'emprestado': False},
-         {'titulo':'The last dance', 'autor':'Neymar & Cris', 'emprestado': True},
-         {'titulo':'Messi goat', 'autor':'Messi', 'emprestado':False} ]
+livros= [{'titulo':'Dom Casmurro', 'autor':'Machado de Assis', 'emprestado': False},
+ {'titulo':'O Pequeno Príncipe', 'autor':'Antoine de Saint-Exupéry', 'emprestado': True},
+ {'titulo':'1984', 'autor':'George Orwell', 'emprestado': False},
+ {'titulo':'O Senhor dos Anéis', 'autor':'J.R.R. Tolkien', 'emprestado': False},
+ {'titulo':'Harry Potter', 'autor':'J.K. Rowling', 'emprestado': True}]
 
 
 def exibir_titulo():
