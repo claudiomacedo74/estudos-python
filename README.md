@@ -62,13 +62,13 @@ Funcionalidades:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/claudiomacedo74/BookHub-python.git
+git clone https://github.com/claudiomacedo74/estudos-python/blob/main/README.md
 ```
 
 Entre na pasta:
 
 ```bash
-cd BookHub-python
+cd estudos-python
 ```
 
 Execute o projeto desejado:
